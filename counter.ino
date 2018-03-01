@@ -1,5 +1,5 @@
 /*
- * Blurtooth Frequency Counter
+ * Bluetooth Frequency Counter
  * Created: 12/08/2017 23:34:47
  *  Author: moty22.co.uk
 */
